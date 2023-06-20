@@ -3,7 +3,7 @@
 /**
  * jack_bauer - Check Main
  * Description: function prints every minute in one day
- * Return: Nothing 
+ * Return: Nothing
  */
 void jack_bauer(void)
 {
